@@ -1,0 +1,53 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body{
+
+	font-size: 1em;
+	font-family: "Trebuchet MS, sans-serif";
+	background: #e6e6e6;
+}
+
+h1{
+	color: #4e4e4e;
+	font-size: 2.5em;
+}
+
+#area-navegacao{
+
+	background-color: #00BFFF;
+	padding: 15px;
+	text-align: center;
+
+}
+
+#area-logo, #area-menu{
+
+	padding: 5px;
+	margin-bottom: 10px;
+}
+
+a {
+	text-decoration: none;
+	padding: 12px;
+	color: white
+}
+
+a:hover{
+	color: black;
+	background: white;
+	padding: 12px;
+}
+
+.branco{
+
+	color: white;
+
+}
+
+.verde{
+	color: green;
+
+}

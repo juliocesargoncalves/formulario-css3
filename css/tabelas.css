@@ -1,0 +1,28 @@
+body{
+
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+table{
+	width: 600px;
+}
+
+th,td{
+
+	
+	padding: 7px;
+	text-align: center;
+}
+
+th{
+	text-transform: uppercase;
+	border-top: 1px solid #999;
+	border-bottom: 1px solid #111;
+	font-size: 90%;
+	letter-spacing: 0.1em;
+}
+
+tbody tr:hover{
+	background-color: #F0F8FF;
+	
+}

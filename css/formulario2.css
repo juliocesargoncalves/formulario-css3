@@ -1,0 +1,60 @@
+body{
+
+	font-family: "Trebuchet MS";
+	background: url(../img/original.jpg) no-repeat top center;
+}
+
+#container{
+
+	width: 450px;
+	height: 320px;
+	background-color: rgba(255,255,255,0.3);
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	border-radius: 10px;
+	margin: 0 auto;
+	margin-top: 120px;
+	text-align: center;
+}
+
+#container img{
+
+	width: 120px;
+	height: 120px;
+	margin-top: -60px;
+	margin-bottom: 30px;
+}
+
+input {
+
+	height: 40px;
+	width: 85%;
+	margin-bottom: 10px;
+	background-color: #fff;
+	padding-left: 40px;
+	background-position: 10px;
+	background-repeat: no-repeat;
+}
+
+input.email{
+	background-image: url(../img/icone-usuario.png);
+}
+
+input.senha{
+
+	background-image: url(../img/icone-cadeado.png);
+}
+
+.formata-button{
+	color: #fff;
+	background-color: #1E90FF;
+	border: 2px solid #00008B;
+	padding: 5px 20px;
+	height: 45px;
+	width: 95%;
+	border-radius: 10px;
+}
+
+.formata-button:hover{
+	background-color: #191970;
+}

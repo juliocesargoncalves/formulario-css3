@@ -1,0 +1,16 @@
+
+ul {
+	
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	width: 250px;
+}
+
+li {
+
+	padding: 10px 20px;
+
+	background: url(../img/seta.png) no-repeat left center;
+}
+

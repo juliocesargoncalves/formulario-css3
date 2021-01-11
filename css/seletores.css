@@ -1,0 +1,30 @@
+
+
+.verde{
+
+	color: green;
+}
+
+.red{
+
+	color: red;
+}
+
+h1.red{
+
+	color: red;
+}
+
+li > a{
+
+	color: red;
+	font-size: 1.1em;
+	text-decoration: none;
+}
+
+p a {
+
+	color: orange;
+	text-decoration: nome;
+	font-size: 1.3em;
+}
